@@ -1,0 +1,15 @@
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\bin\Debug\net7.0\tl1_tp7_2023-rubenguzman48.exe
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\bin\Debug\net7.0\tl1_tp7_2023-rubenguzman48.deps.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\bin\Debug\net7.0\tl1_tp7_2023-rubenguzman48.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\bin\Debug\net7.0\tl1_tp7_2023-rubenguzman48.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\bin\Debug\net7.0\tl1_tp7_2023-rubenguzman48.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\refint\tl1_tp7_2023-rubenguzman48.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\tl1_tp7_2023-rubenguzman48.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\obj\Debug\net7.0\ref\tl1_tp7_2023-rubenguzman48.dll
