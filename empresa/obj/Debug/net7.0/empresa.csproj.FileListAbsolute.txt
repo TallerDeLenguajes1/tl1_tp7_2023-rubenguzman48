@@ -1,0 +1,15 @@
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\bin\Debug\net7.0\empresa.exe
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\bin\Debug\net7.0\empresa.deps.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\bin\Debug\net7.0\empresa.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\bin\Debug\net7.0\empresa.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\bin\Debug\net7.0\empresa.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\refint\empresa.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\empresa.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp72023\tl1_tp7_2023-rubenguzman48\empresa\obj\Debug\net7.0\ref\empresa.dll
